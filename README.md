@@ -2,7 +2,7 @@
 
 NOTA: si bien en este proyecto se práctica:
 - Manejo de eventos y protocolos.
-- Emitir un brodcast.
+- Emitir un Broadcast.
 - HTML y CSS.
 - Vanilla JavaScript.
 - ECMAScript module.
