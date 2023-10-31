@@ -5,7 +5,7 @@ NOTA: si bien en este proyecto se práctica:
 - Emitir un brodcast.
 - HTML y CSS.
 - Vanilla JavaScript.
-- Ecmascript module.
+- ECMAScript module.
 - SQL.
 - Persistencia de datos.
 El objetivo principal de este proyecto es aprender y prácticar la conexion de NodeJS y WebSockets en un chat.
